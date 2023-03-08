@@ -1,0 +1,13 @@
+{
+    "name": "nome-progetto",
+    "version": "1.0.0",
+    "description": "Descrizione del progetto",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "Tuo nome",
+    "license": "MIT"
+  }
+  
